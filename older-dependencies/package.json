@@ -1,0 +1,20 @@
+{
+  "name": "older-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.1",
+    "@types/ts-nameof": "^4.2.1",
+    "jest": "^25.3.0",
+    "ts-jest": "^25.3.1",
+    "ts-nameof": "^4.2.2",
+    "typescript": "^4.3.5"
+  }
+}
